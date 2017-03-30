@@ -12,7 +12,7 @@ body {
   font-family: 'Merriweather', 'Helvetica Neue', Arial, sans-serif;
 }
 hr {
-  border-color: #F05F40;
+  border-color: #F7B5B5;
   border-width: 3px;
   max-width: 50px;
 }
@@ -23,7 +23,7 @@ a {
   -webkit-transition: all 0.35s;
   -moz-transition: all 0.35s;
   transition: all 0.35s;
-  color: #F05F40;
+  color: #F7B5B5;
 }
 a:hover,
 a:focus {
@@ -43,7 +43,7 @@ p {
   margin-bottom: 20px;
 }
 .bg-primary {
-  background-color: #F05F40;
+  background-color: #F7B5B5;
 }
 .bg-dark {
   background-color: #222222;
@@ -337,8 +337,8 @@ fieldset[disabled] .btn-default.active {
 }
 .btn-primary {
   color: white;
-  background-color: #F05F40;
-  border-color: #F05F40;
+  background-color: #F7B5B5;
+  border-color: #F7B5B5;
   -webkit-transition: all 0.35s;
   -moz-transition: all 0.35s;
   transition: all 0.35s;
@@ -376,11 +376,11 @@ fieldset[disabled] .btn-primary:active,
 .btn-primary.disabled.active,
 .btn-primary[disabled].active,
 fieldset[disabled] .btn-primary.active {
-  background-color: #F05F40;
-  border-color: #F05F40;
+  background-color: #F7B5B5;
+  border-color: #F7B5B5;
 }
 .btn-primary .badge {
-  color: #F05F40;
+  color: #F7B5B5;
   background-color: white;
 }
 .btn {
